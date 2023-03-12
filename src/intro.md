@@ -1,6 +1,6 @@
 # ArtPrecip
 
-Comprehensive benchmarking of data-driven nowcasting model
+Comprehensive benchmarking of data-driven nowcasting models
 
 **Author:** [Jakub Lewandowski](https://environment.leeds.ac.uk/institute-climate-atmospheric-science/pgr/11237/jakub-lewandowski)
 
