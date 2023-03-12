@@ -2,7 +2,7 @@
 
 ![License Shield](https://img.shields.io/github/license/Flumen-Weather/ArtPrecip?style=flat-square)
 
-Comprehensive benchmarking of data-driven nowcasting model
+Comprehensive benchmarking of data-driven nowcasting models
 
 For more information about the benchmarking datasets visit [ArtPrecip Website](https://flumen-weather.github.io/ArtPrecip/).
 
