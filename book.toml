@@ -1,0 +1,6 @@
+[book]
+authors = ["Jakub Lewandowski"]
+language = "en"
+multilingual = false
+src = "src"
+title = "ArtPrecip - Comprehensive benchmarking of data-driven nowcasting model"
